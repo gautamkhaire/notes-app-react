@@ -15,3 +15,7 @@ Local Storage is a web storage object that allows JavaScript sites and apps to k
 This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when the browser window is closed.
 
 In basic terms, local storage enables developers to store and retrieve data in the browser.
+
+![Screenshot (1508)](https://user-images.githubusercontent.com/85440675/224525753-dbc74824-539e-4307-83bb-22da6bbff6a1.png)
+
+![Screenshot (1509)](https://user-images.githubusercontent.com/85440675/224525761-31d34044-86d9-4e12-94bd-d408136410b9.png)
